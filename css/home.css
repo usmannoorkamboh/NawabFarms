@@ -1,0 +1,103 @@
+.navbar{
+	float:left;
+	clear:none; 
+	background-color: #f8cf02;
+	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+	-webkit-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+}
+.yellowback
+{
+	background-color: #f8cf02;
+	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+.tagline{
+	font-family: 'Fjalla One', sans-serif;
+	color: rgb(59,108,60);
+	margin-left: 55px;
+	font-size: 140%
+}
+
+.greenback{
+	background-color: #3b6c3c;
+	background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+	font-size: 75%;
+	display: none;
+	position: absolute;
+	background-color: #f8cf02;
+	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  min-width: 30px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.logoimg img{
+	height:9%;
+	width: 140%;
+	margin-left: 55px;
+}
+.navbarown a{
+	font-size: 200%;
+	font-family: 'Fjalla One', sans-serif;
+	color: rgb(59,108,60);
+}
+
+
+.fullscreen-bg {
+    overflow: hidden;
+}
+
+.fullscreen-bg__video {
+	outline: all;
+	outline-color: #f8cf02;
+	outline-style: double;
+	outline-width: 6px;
+	 width: 60%;
+    height: 50%;
+    margin-left: 20px;
+}
+
+.introtext
+{
+	color: #f8cf02;
+}
+
+.post-header__meta::before {
+    content: '';
+    border-radius: 3px;
+    display: block;
+    height: 5px;
+    width: 110px;
+    background-color: #f5f3f2;
+    position: absolute;
+}
+
+.introheading{
+	font-size: 340%;
+}
+
+.mangoimg img{
+	height:9%;
+	width: 90%;
+}
+
+.linksimages{
+	float: left;
+}
+.copyrights
+{
+	color: #3b6c3c;
+}
