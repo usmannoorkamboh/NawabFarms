@@ -16,5 +16,23 @@
 
 .rate{
 	font-size: 1000%;
-		display: inline-block;
+	display: inline-block;
 }
+
+.package1 img
+{
+	width: 100%;
+	border-radius: 5px;
+}
+/*
+
+.box{
+    color: #fff;
+    padding: 20px;
+    display: none;
+    margin-top: 20px;
+}
+.red{ background: #ff0000; }
+.green{ background: #228B22; }
+.blue{ background: #0000ff; }
+*/
