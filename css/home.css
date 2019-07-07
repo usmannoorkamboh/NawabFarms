@@ -1,7 +1,7 @@
 .navbar{
 	float:left;
 	clear:none; 
-	background-color: #f8cf02;
+	background-color: #f9d623;
 	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 	-webkit-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
@@ -9,14 +9,16 @@
 }
 .yellowback
 {
-	background-color: #f8cf02;
+	background-color: #f9d623;
 	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 .tagline{
-	font-family: 'Fjalla One', sans-serif;
+font-family: 'Great Vibes', cursive;
+/* 	color: rgb(59,108,60); */
 	color: rgb(59,108,60);
 	margin-left: 55px;
-	font-size: 140%
+	font-size: 240%;
+	
 }
 
 .greenback{
@@ -33,7 +35,7 @@
 	font-size: 75%;
 	display: none;
 	position: absolute;
-	background-color: #f8cf02;
+	background-color: #f9d623;
 	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
   min-width: 30px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -51,7 +53,7 @@
 }
 .navbarown a{
 	font-size: 200%;
-	font-family: 'Fjalla One', sans-serif;
+font-family: 'Londrina Solid', cursive;
 	color: rgb(59,108,60);
 }
 
@@ -73,7 +75,7 @@
 .introtext
 {
 	font-family: 'Roboto', sans-serif;
-	color: #f8cf02;
+	color: #f9d623;
 }
 
 .post-header__meta::before {
@@ -88,6 +90,7 @@
 
 .introheading{
 	font-size: 340%;
+font-family: 'Londrina Solid', cursive;
 }
 
 .mangoimg img{
@@ -111,4 +114,8 @@
 	position: relative;
 	bottom: 0;
 	width: 102%;
+}
+.intromain{
+	font-size: 160%;
+font-family: 'Crimson Text', serif;
 }

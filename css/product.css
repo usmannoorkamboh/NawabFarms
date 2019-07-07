@@ -13,15 +13,23 @@
 	font-size: 600%;
 	display: inline-block;
 }
+.originalprice{
+	font-size: 400%;
+	display: inline-block;
+}
 
 .rate{
 	font-size: 1000%;
 	display: inline-block;
 }
-
+.originalrate{
+	font-size: 600%;
+	display: inline-block;
+	text-decoration: line-through;
+}
 .package1 img
 {
-	width: 100%;
+	width: 90%;
 	border-radius: 5px;
 }
 /*
