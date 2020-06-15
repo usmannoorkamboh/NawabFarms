@@ -1,0 +1,161 @@
+#greenbar
+{
+   height: 110px;
+   left: 0;
+   margin: 0;
+   min-height: auto;
+   min-width: auto;
+   padding: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+   z-index: -1;
+}
+#greenbar2
+{
+	
+   height: 35px;
+   left: 0;
+   margin: 0;
+   min-height: auto;
+   min-width: auto;
+   padding: 0;
+   position: absolute;
+   top: 0;
+   width: 103%;
+   z-index: -1;
+}
+#greenbar3
+{
+   height: 45px;
+   left: 0;
+   margin: 0;
+   min-height: auto;
+   min-width: auto;
+   padding: 0;
+   position: absolute;
+   width: 100%;
+   z-index: -1;
+}
+#freshmangoes
+{
+	width: 85%;
+}
+#spotless
+{
+	width: 85%;
+}
+#slices
+{
+	width: 95%;
+}
+.topbanner
+{
+	font-size: 150%;
+	font-family: 'Titillium Web', sans-serif;
+}
+.bilaltext
+{
+	padding-left: 10px;
+	font-size: 240%;
+	font-family: Bilal;
+
+
+}
+.bilaltextteam
+{
+	font-size: 500%;
+	font-family: Bilal;
+
+}
+.bilaltextnames
+{
+	text-align: center;
+	font-size: 300%;
+	font-family: Bilal;
+
+}
+.yellowback
+{
+	background-color: #f9d623;
+	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+.logoimg img{
+	height:10%;
+	width: 58%;
+}
+
+.navbarown a{
+	
+	font-size: 150%;
+	font-family: 'BioRhyme', serif;
+	color: white;
+	font-weight: 300;
+}
+
+.introtext
+{
+	font-size: 108%;
+	text-align: center;
+	font-family: 'BioRhyme', serif;
+	font-weight: 300;
+	color: black;
+}
+.linksimages{
+	float: left;
+}
+.listitems
+{
+	font-size: 150%;
+	font-family: 'BioRhyme', serif;
+	font-weight: 300;
+}
+.theend
+{
+	background-color: #3b6c3c;
+	font-family: 'BioRhyme', serif;
+	font-weight: 400;
+}
+.contacttext{
+	font-size: 130%;
+	font-family: 'Roboto', sans-serif;
+}
+.footerown
+{
+	position: relative;
+	bottom: 0;
+	width: 102%;
+}
+.package1{
+	border: 2px solid;
+	outline: #3BC558;
+	border-radius: 15px;	
+	font-size: 40%;
+	font-family: 'Titillium Web', sans-serif;
+}
+.package1 img
+{
+	width: 100%;
+	border-radius: 5px;
+}
+
+.galleryimages img
+{
+	width: 100%;
+	border-radius: 8px;
+}
+.reviews
+{
+	padding-left: 50px;
+	background-color: #3BC558;
+	border-radius:10px;
+}
+.reviews img
+{
+	width: 100%;
+}
+.teamimg
+{
+	width: 100%;
+}
